@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - FS417758
+      - ino_dev
 
 jobs:
   build:
